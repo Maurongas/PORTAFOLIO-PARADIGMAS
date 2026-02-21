@@ -1,0 +1,9 @@
+[submodule "docs/themes/stack"]
+	path = docs/themes/stack
+	url = https://github.com/CaiJimmy/hugo-theme-stack.git
+[submodule "docs/themes/m10c"]
+	path = docs/themes/m10c
+	url = https://github.com/vaga/hugo-theme-m10c.git
+[submodule "docs/themes/ananke"]
+	path = docs/themes/ananke
+	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
