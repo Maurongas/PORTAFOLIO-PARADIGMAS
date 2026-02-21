@@ -29,8 +29,6 @@ Markdown es un lenguaje de marcado ligero que nos permite aplicar formato a un t
 * **Listas:** Se pueden usar guiones `-` o asteriscos `*` para listas desordenadas, y números `1.` para listas ordenadas.
 * **Bloques de código:** Se encierran entre tres comillas invertidas (\`\`\`).
 * **Enlaces e imágenes:** `[Texto del enlace](url)` y `![Texto alternativo](url_de_la_imagen)`.
-#### Para ver mas contenido de la sintaxis 
-[Click aqui]({{< ref "practica0/ayuda.md" >}})
 
 ### Segunda sesión: Uso de Git y GitHub
 **¿Qué son Git y GitHub?**
